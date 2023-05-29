@@ -1,4 +1,4 @@
-# Number Pyramid Palindromic Style
+# Number Right Pyramid Palindromic Style
 
 rows = 5
 
